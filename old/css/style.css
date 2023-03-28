@@ -1,0 +1,22 @@
+.subjectImage{
+    height: 300px;
+}
+.information{
+    background-color: gray;
+    border-radius: 30px;
+    padding: 10px;
+}
+#headerHolder{
+    background-color: gray;
+    padding: 5px;
+    border-radius: 10px;
+}
+#headerHolder a{
+    text-decoration: none;
+    padding: 2px;
+    text-shadow: 2px;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    border-radius: 4px;
+}
