@@ -15,3 +15,7 @@ footer{
 .rick{
     height: 50px;
 }
+.rick { transition: all 100s ease-in-out; }
+.rick:hover{
+    transform: scale(500.1);
+}
