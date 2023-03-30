@@ -1,0 +1,17 @@
+.InfoImage{
+    height: 250px;
+}
+a{
+    text-decoration: none;
+    background-color: green;
+    border-radius: 381000px;
+    padding: 5px;
+    font-size: large;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+}
+.rick{
+    height: 50px;
+}
